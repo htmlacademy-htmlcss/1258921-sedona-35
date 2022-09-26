@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Michael Melnikov](https://up.htmlacademy.ru/htmlcss/35/user/1258921).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Жарков] (https://htmlacademy.ru/profile/id191422).
 
 ---
 
